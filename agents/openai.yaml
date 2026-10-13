@@ -1,4 +1,4 @@
 interface:
   display_name: "Guided Mastery"
-  short_description: "Пошаговое обучение на заданиях Tomorrow School"
+  short_description: "Задания Tomorrow School с Codex и Claude"
 
