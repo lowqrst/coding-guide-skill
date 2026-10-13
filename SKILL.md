@@ -1,6 +1,6 @@
 ---
 name: guided-mastery
-description: Guide learners through Tomorrow School coding tasks with diagnosis, short lessons, practice, gradual hints, code review, debugging, progress tracking, and defense preparation.
+description: Guide Tomorrow School learners in Codex and Claude through diagnosis, short lessons, mini-tasks, gradual hints, code review, debugging, progress tracking, and defense practice.
 ---
 
 # Guided Mastery
