@@ -1,6 +1,6 @@
 ---
 name: guided-mastery
-description: Guide a learner through a Tomorrow School programming assignment from specification to working submission and defense using diagnosis, short lessons, practice, hints, review, and progress tracking. Use when the learner wants to understand and implement an assignment themselves; do not activate for a request that only asks for a finished implementation.
+description: Guide learners through Tomorrow School coding tasks with diagnosis, short lessons, practice, gradual hints, code review, debugging, progress tracking, and defense preparation.
 ---
 
 # Guided Mastery
