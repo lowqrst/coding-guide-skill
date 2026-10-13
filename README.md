@@ -1,6 +1,6 @@
 # Guided Mastery
 
-Guided Mastery is an Agent Skill that helps students complete Tomorrow School assignments independently. It breaks down requirements, identifies knowledge gaps, and guides learners through short lessons, practice tasks, gradual hints, code review, debugging, and defense preparation. It does not provide a complete solution unless explicitly asked.
+Guided Mastery is an Agent Skill for Codex and Claude that helps students complete Tomorrow School assignments independently. It breaks down requirements, identifies knowledge gaps, and guides learners through short lessons, practice tasks, gradual hints, code review, debugging, and defense preparation. It does not provide a complete solution unless explicitly asked.
 
 ## Install in Codex
 
